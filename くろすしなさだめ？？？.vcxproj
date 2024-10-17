@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Any.cpp" />
     <ClCompile Include="MemoryAllocator.cpp" />
+    <ClCompile Include="ReletionDB.cpp" />
     <ClCompile Include="SurfaceT.cpp" />
     <ClCompile Include="Vector.cpp" />
     <ClCompile Include="ソース.cpp" />
@@ -136,6 +137,7 @@
   <ItemGroup>
     <ClInclude Include="Any.h" />
     <ClInclude Include="MemoryAllocator.h" />
+    <ClInclude Include="ReletionDB.h" />
     <ClInclude Include="SurfaceT.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
